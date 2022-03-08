@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testing.org/testing-1.0.dtd">
+<suite name="Suite"></suite>
+<suite thread-count="5" name="Test1">
+<groups>
+<run>
+<include name="fe"></include>
+</run>
+</groups>
+<classes>
+<class name="com.mphasis.testing.testing.GroupTestDemo2">
+<class name="com.mphasis.testing.testing.GroupTestDemo">
+</classes>
+</suite>

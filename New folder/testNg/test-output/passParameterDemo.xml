@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+<test thread-count="5" name ="Test1">
+<parameter name="v1" value="2">
+<parameter name="v2" value="2">
+<classes>
+<class name="com.mphasis.testing.testNg.passParameterDemo">
+</class>
+</classes>
+</parameter>
+</parameter>
+</test>
+</suite>

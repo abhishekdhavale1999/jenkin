@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testing.org/testing-1.0.dtd">
+<suite name="Suite">
+<test name="test1" thread-count="2" paraller="methods">
+<classes>
+<class name="com.mphasis.testing.testngDemo.paralleltestDdemo">
+</class>
+</classes>
+</test>
+</suite>
